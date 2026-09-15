@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LOGIKA\\zAdan 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDB0497-CBE8-40CA-8432-431C020372C1}|zAdan 2\\zAdan 2.vcxproj|C:\\LOGIKA\\zAdan 2\\zAdan 2\\zAdan 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6CDB0497-CBE8-40CA-8432-431C020372C1}|zAdan 2\\zAdan 2.vcxproj|solutionrelative:zAdan 2\\zAdan 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "zAdan 2.cpp",
+              "DocumentMoniker": "C:\\LOGIKA\\zAdan 2\\zAdan 2\\zAdan 2.cpp",
+              "RelativeDocumentMoniker": "zAdan 2\\zAdan 2.cpp",
+              "ToolTip": "C:\\LOGIKA\\zAdan 2\\zAdan 2\\zAdan 2.cpp",
+              "RelativeToolTip": "zAdan 2\\zAdan 2.cpp",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwLsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-15T19:31:53.319Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
